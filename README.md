@@ -41,5 +41,5 @@ Visit `http://localhost:3000` in your web browser to see the application's respo
 
 ## Screenshots
 
-![Final Image Running in Docker Desktop](path/to/screenshot.png)
+![Final Image Running in Docker Desktop](docker desktop -image.jpg)
 
