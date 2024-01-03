@@ -17,7 +17,7 @@ This project demonstrates the process of containerizing a Node.js application us
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/dockerized-node-app.git
+   git clone https://github.com/wonderakwei/dockerized-node-app.git
    ```
 
 2. Navigate to the project directory:
