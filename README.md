@@ -41,5 +41,5 @@ Visit `http://localhost:3000` in your web browser to see the application's respo
 
 ## Screenshots
 
-![Docker Desktop](docker-desktop-image.jpg)
+![Docker Desktop](docker desktop -image.jpg)
 
