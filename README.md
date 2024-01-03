@@ -38,8 +38,3 @@ This project demonstrates the process of containerizing a Node.js application us
 ## Usage
 
 Visit `http://localhost:3000` in your web browser to see the application's response.
-
-## Screenshots
-
-![Docker Desktop]('docker desktop -image.jpg')
-
